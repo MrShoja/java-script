@@ -1,6 +1,21 @@
-let i = 0
+// let radius = 1
+// let x = 1
+// let y = 1
 
-while (i <= 5) {
-    console.log(i)
-    i++
+// this is better than this 
+
+// let circle = {
+//      radius: 1,
+//      x: 1,
+//      y: 1,
+// } 
+
+// this is  better than this
+
+let circle = {
+     radius: 1,
+     location : {
+          x: 1,
+          y: 1,
+     }
 }
