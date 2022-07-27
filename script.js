@@ -28,3 +28,4 @@ let circle = {
      isvisible: true,
      draw: function(){console.log("draw")}
 }
+
